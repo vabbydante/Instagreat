@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381738864836",
+    "project_id": "instagreat-bfbda",
+    "storage_bucket": "instagreat-bfbda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381738864836:android:d93729ee31314396513991",
+        "android_client_info": {
+          "package_name": "com.vaibhav.instagreat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381738864836-si5klt0a6v9aiocroo26uoffjtrijeej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30SXGxnev5y3gzny8wMNQYnIgnQjhPk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381738864836-si5klt0a6v9aiocroo26uoffjtrijeej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
